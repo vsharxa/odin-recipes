@@ -1,1 +1,1 @@
-# odin-recipes
+A project for learning the fundamentals of HTML (adding paragraphs, headings, lists, images, and links) while also becoming acquainted with the GitHub workflow.
