@@ -1,1 +1,1 @@
-A project for learning the fundamentals of HTML (adding paragraphs, headings, lists, images, and links) while also becoming acquainted with the GitHub workflow.
+A project for learning the fundamentals of HTML (adding paragraphs, headings, lists, images, and links) while also becoming acquainted with the Git workflow.
