@@ -1,0 +1,41 @@
+div {
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+.lasa {
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.chana {
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pad {
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#lasa {
+    color: black;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
