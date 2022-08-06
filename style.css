@@ -31,7 +31,7 @@ p {
 
 #lasa {
     color: black;
-    font-size: 100px;
+    font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -39,3 +39,15 @@ img {
     height: auto;
     width: 400px;
 }
+
+#chana {
+    color: black;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pad {
+        color: black;
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+    }    
