@@ -3,7 +3,7 @@ div {
     font-size: 100px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background-color: white;
+    background-color: fuchsia;
 }
 
 .lasa {
@@ -14,7 +14,7 @@ div {
 
 p {
     text-align: center;
-    color: white;
+    color: fuchsia;
 }
 
 .chana {
@@ -51,3 +51,11 @@ img {
         font-size: 50px;
         font-family: 'Times New Roman', Times, serif;
     }    
+
+* {
+    background-color: fuchsia;
+}    
+
+h3 {
+    font-weight: bolder;
+}
